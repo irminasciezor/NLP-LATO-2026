@@ -1,0 +1,202 @@
+[
+  {
+    "text": "To był bardzo interesujący wykład.",
+    "class": "neutralny"
+  },
+  {
+    "text": "To był bardzo interesujący wykład.",
+    "class": "neutralny"
+  },
+  {
+    "text": "To był bardzo interesujący wykład.",
+    "class": "neutralny"
+  },
+  {
+    "text": "The quick brown fox jumps over the lazy dog",
+    "class": "positive"
+  },
+  {
+    "text": "The quick brown fox jumps over the lazy dog",
+    "class": "neutral"
+  },
+  {
+    "text": "The quick brown fox jumps over the lazy dog",
+    "class": "neutral"
+  },
+  {
+    "text": "The children were running and eating apples",
+    "class": "positive"
+  },
+  {
+    "text": "The children were running and eating apples",
+    "class": "negative"
+  },
+  {
+    "text": "To be or not to be that is the question whether tis nobler in the mind to suffer",
+    "class": "neutral"
+  },
+  {
+    "text": "The cat sat on the mat the cat ate the rat",
+    "class": "neutral"
+  },
+  {
+    "text": "The quick brown fox jumps over the lazy dog",
+    "class": "positive"
+  },
+  {
+    "text": "The quick brown fox jumps over the lazy dog and the cat sat on the mat",
+    "class": "positive"
+  },
+  {
+    "text": "The quick brown fox jumps over the lazy dog and the cat sat on the mat",
+    "class": "neutral"
+  },
+  {
+    "text": "The cat sat on the mat.",
+    "class": "positive"
+  },
+  {
+    "text": "The dog ran fast.",
+    "class": "positive"
+  },
+  {
+    "text": "The cat sat on the mat.",
+    "class": "positive"
+  },
+  {
+    "text": "The dog ran fast.",
+    "class": "positive"
+  },
+  {
+    "text": "This movie was absolutely wonderful and I loved every moment",
+    "class": "positive"
+  },
+  {
+    "text": "The team delivered an outstanding performance today",
+    "class": "positive"
+  },
+  {
+    "text": "She was running and singing beautifully in the rain",
+    "class": "positive"
+  },
+  {
+    "text": "The children were happily playing and laughing all day",
+    "class": "positive"
+  },
+  {
+    "text": "I am so happy and grateful for this amazing experience",
+    "class": "positive"
+  },
+  {
+    "text": "Brilliant fantastic wonderful amazing excellent superb great",
+    "class": "positive"
+  },
+  {
+    "text": "Love joy happiness success brilliant wonderful fantastic",
+    "class": "positive"
+  },
+  {
+    "text": "The cat sat on the mat near the window",
+    "class": "neutral"
+  },
+  {
+    "text": "The meeting will be held on Monday at noon",
+    "class": "neutral"
+  },
+  {
+    "text": "The sun rises in the east and sets in the west",
+    "class": "neutral"
+  },
+  {
+    "text": "Water boils at one hundred degrees Celsius at sea level",
+    "class": "neutral"
+  },
+  {
+    "text": "The document contains several pages with various sections",
+    "class": "neutral"
+  },
+  {
+    "text": "This was the worst experience I have ever had",
+    "class": "negative"
+  },
+  {
+    "text": "The service was terrible and the food was disgusting",
+    "class": "negative"
+  },
+  {
+    "text": "I hated every single minute of this boring presentation",
+    "class": "negative"
+  },
+  {
+    "text": "The product broke after one day and support was useless",
+    "class": "negative"
+  },
+  {
+    "text": "Awful horrible terrible disgusting dreadful worst failure",
+    "class": "negative"
+  },
+  {
+    "text": "Disaster failure horrible awful terrible worst nightmare",
+    "class": "negative"
+  },
+  {
+    "text": "I absolutely loved this movie.",
+    "class": "positive"
+  },
+  {
+    "text": "The acting was superb and the story was brilliant.",
+    "class": "positive"
+  },
+  {
+    "text": "The weather today is cloudy.",
+    "class": "neutral"
+  },
+  {
+    "text": "It might rain in the afternoon.",
+    "class": "neutral"
+  },
+  {
+    "text": "This product is terrible.",
+    "class": "negative"
+  },
+  {
+    "text": "I would never recommend it to anyone.",
+    "class": "negative"
+  },
+  {
+    "text": "The concert was amazing.",
+    "class": "positive"
+  },
+  {
+    "text": "The band played fantastically and the crowd loved it.",
+    "class": "positive"
+  },
+  {
+    "text": "The report was submitted on time.",
+    "class": "neutral"
+  },
+  {
+    "text": "All sections were completed correctly.",
+    "class": "neutral"
+  },
+  {
+    "text": "The food was cold and tasteless.",
+    "class": "negative"
+  },
+  {
+    "text": "The waiter was rude and unhelpful.",
+    "class": "negative"
+  },
+  {
+    "text": "The report was submitted on time.",
+    "class": "neutral"
+  },
+  {
+    "text": "All sections were completed correctly.",
+    "class": "neutral"
+  },
+  {
+    "text": "Water boils at one hundred degrees Celsius at sea level",
+    "class": "neutral"
+  }
+]
